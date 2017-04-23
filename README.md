@@ -50,9 +50,9 @@ Html of the-components
 <!-- Sections Start -->
 <a name="sections"></a>
 
-<!-- Section from "docs/guides/01.Installation.md.hbs" Start -->
+<!-- Section from "doc/guides/01.Installation.md.hbs" Start -->
 
-<a name="section-docs-guides-01-installation-md"></a>
+<a name="section-doc-guides-01-installation-md"></a>
 
 Installation
 -----
@@ -62,11 +62,11 @@ $ npm install the-html --save
 ```
 
 
-<!-- Section from "docs/guides/01.Installation.md.hbs" End -->
+<!-- Section from "doc/guides/01.Installation.md.hbs" End -->
 
-<!-- Section from "docs/guides/02.Usage.md.hbs" Start -->
+<!-- Section from "doc/guides/02.Usage.md.hbs" Start -->
 
-<a name="section-docs-guides-02-usage-md"></a>
+<a name="section-doc-guides-02-usage-md"></a>
 
 Usage
 ---------
@@ -91,11 +91,11 @@ export default ExampleHtml
 ```
 
 
-<!-- Section from "docs/guides/02.Usage.md.hbs" End -->
+<!-- Section from "doc/guides/02.Usage.md.hbs" End -->
 
-<!-- Section from "docs/guides/03.Components.md.hbs" Start -->
+<!-- Section from "doc/guides/03.Components.md.hbs" Start -->
 
-<a name="section-docs-guides-03-components-md"></a>
+<a name="section-doc-guides-03-components-md"></a>
 
 Components
 -----------
@@ -114,7 +114,7 @@ Html of the-components
 | `lang` | string | Lang | `null` |
 
 
-<!-- Section from "docs/guides/03.Components.md.hbs" End -->
+<!-- Section from "doc/guides/03.Components.md.hbs" End -->
 
 
 <!-- Sections Start -->
