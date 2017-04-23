@@ -1,7 +1,7 @@
 {
   "name": "the-html",
-  "version": "1.0.1",
-  "description": "Html component of THE framework.",
+  "version": "1.0.2",
+  "description": "Html of the-components",
   "main": "shim",
   "scripts": {
     "build": "the-script-build",

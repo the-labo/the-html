@@ -7,7 +7,7 @@ class ExampleHtml extends React.PureComponent {
   render () {
     let styles = TheHtml.styles({})
     return (
-      <TheHtml style={styles}/>
+      <TheHtml styles={styles}/>
     )
   }
 }
