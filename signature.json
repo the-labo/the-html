@@ -37,8 +37,8 @@
         "required": false,
         "description": "Style objects",
         "defaultValue": {
-          "value": "{}",
-          "computed": false
+          "value": "TheHtml.styles({})",
+          "computed": true
         }
       },
       "id": {

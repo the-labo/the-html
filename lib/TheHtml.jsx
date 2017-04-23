@@ -53,7 +53,7 @@ TheHtml.propTypes = {
 
 TheHtml.defaultProps = {
   className: null,
-  styles: {},
+  styles: TheHtml.styles({}),
   id: 'the',
   lang: null
 }

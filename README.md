@@ -106,12 +106,12 @@ Html of the-components
 
 **Props**
 
-| Name | Type | Description | Required |
+| Name | Type | Description | Default |
 | --- | --- | ---- | ---- |
-| `className` | string | CSS class name | false |
-| `styles` | object | Style objects | false |
-| `id` | string | DOM Id | false |
-| `lang` | string | Lang | false |
+| `className` | string | CSS class name | `null` |
+| `styles` | object | Style objects | `TheHtml.styles({})` |
+| `id` | string | DOM Id | `'the'` |
+| `lang` | string | Lang | `null` |
 
 
 <!-- Section from "docs/guides/03.Components.md.hbs" End -->
