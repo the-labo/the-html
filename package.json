@@ -1,6 +1,6 @@
 {
   "name": "the-html",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Html of the-components",
   "main": "shim",
   "scripts": {
@@ -29,8 +29,7 @@
   "homepage": "https://github.com/the-labo/the-html#readme",
   "dependencies": {
     "classnames": "^2.2.5",
-    "prop-types": "^15.5.8",
-    "the-script-update": "^1.0.0"
+    "prop-types": "^15.5.8"
   },
   "devDependencies": {
     "react": "^15.5.4",
