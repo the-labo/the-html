@@ -18,7 +18,13 @@ describe('the-html', () => {
 
   it('Render a component', () => {
     let element = render(
-       <TheHtml />
+      <TheHtml >
+        <body>
+        <main>
+          <h1>Hoo</h1>
+        </main>
+        </body>
+      </TheHtml>
     )
     ok(element)
   })
