@@ -1,6 +1,6 @@
 {
   "name": "the-html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Html component of THE framework.",
   "main": "shim",
   "scripts": {

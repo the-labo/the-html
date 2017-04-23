@@ -53,6 +53,11 @@
         }
       },
       "lang": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "Lang",
         "defaultValue": {
           "value": "null",
           "computed": false

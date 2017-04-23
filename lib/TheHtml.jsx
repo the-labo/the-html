@@ -46,7 +46,9 @@ TheHtml.propTypes = {
   /** Style objects */
   styles: PropTypes.object,
   /** DOM Id */
-  id: PropTypes.string
+  id: PropTypes.string,
+  /** Lang */
+  lang: PropTypes.string
 }
 
 TheHtml.defaultProps = {

@@ -77,18 +77,16 @@ Usage
 import React from 'react'
 import TheHtml from 'the-html'
 
-class ExampleComponent extends React.PureComponent {
+class ExampleHtml extends React.PureComponent {
   render () {
-    let style = TheHtml.style({})
+    let styles = TheHtml.styles({})
     return (
-      <div>
-        <TheHtml style={style} />
-      </div>
+      <TheHtml style={styles}/>
     )
   }
 }
 
-export default ExampleComponent
+export default ExampleHtml
 
 ```
 
