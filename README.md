@@ -109,9 +109,9 @@ Html of the-components
 | Name | Type | Description | Default |
 | --- | --- | ---- | ---- |
 | `className` | string | CSS class name | `null` |
-| `styles` | object | Style objects | `TheHtml.styles({})` |
 | `id` | string | DOM Id | `'the'` |
 | `lang` | string | Lang | `null` |
+| `styles` | object | Style objects | `TheHtml.styles({})` |
 
 
 <!-- Section from "doc/guides/03.Components.md.hbs" End -->
