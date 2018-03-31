@@ -30,17 +30,6 @@
           "computed": false
         }
       },
-      "styles": {
-        "type": {
-          "name": "object"
-        },
-        "required": false,
-        "description": "Style objects",
-        "defaultValue": {
-          "value": "TheHtml.styles({})",
-          "computed": true
-        }
-      },
       "id": {
         "type": {
           "name": "string"
@@ -61,6 +50,17 @@
         "defaultValue": {
           "value": "null",
           "computed": false
+        }
+      },
+      "styles": {
+        "type": {
+          "name": "object"
+        },
+        "required": false,
+        "description": "Style objects",
+        "defaultValue": {
+          "value": "TheHtml.styles({})",
+          "computed": true
         }
       }
     }
