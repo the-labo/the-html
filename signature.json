@@ -37,7 +37,7 @@
         "required": false,
         "description": "DOM Id",
         "defaultValue": {
-          "value": "'the'",
+          "value": "'the-html'",
           "computed": false
         }
       },
