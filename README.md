@@ -109,7 +109,7 @@ Html of the-components
 | Name | Type | Description | Default |
 | --- | --- | ---- | ---- |
 | `className` | string | CSS class name | `null` |
-| `id` | string | DOM Id | `null` |
+| `id` | string | DOM Id | `'the-html'` |
 | `lang` | string | Lang | `null` |
 | `styles` | object | Style objects | `TheHtml.styles({})` |
 
