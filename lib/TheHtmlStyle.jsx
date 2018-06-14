@@ -29,7 +29,7 @@ TheHtmlStyle.data = (options) => {
     backgroundColor = ThemeValues.backgroundColor,
     fontFamily = ThemeValues.fontFamily,
     fontSize = ThemeValues.fontSize,
-    heigh = '100%',
+    height = '100%',
     textColor = ThemeValues.textColor,
   } = options
   return {
