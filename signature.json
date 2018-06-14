@@ -64,5 +64,23 @@
         }
       }
     }
+  },
+  "TheHtmlStyle": {
+    "description": "Style for TheHtml",
+    "displayName": "TheHtmlStyle",
+    "methods": [],
+    "props": {
+      "options": {
+        "type": {
+          "name": "object"
+        },
+        "required": false,
+        "description": "Style options",
+        "defaultValue": {
+          "value": "{}",
+          "computed": false
+        }
+      }
+    }
   }
 }
