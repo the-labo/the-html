@@ -3,7 +3,7 @@
 import classnames from 'classnames'
 import PropTypes from 'prop-types'
 import React from 'react'
-import TheStyle from 'the-style'
+import { TheStyle } from 'the-style'
 
 /** Style for TheHtml */
 const TheHtmlStyle = ({className, id, options}) => (
