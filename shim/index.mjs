@@ -3,6 +3,4 @@
  */
 'use strict'
 
-import lib from './esm'
-
-export default lib
+export * from './esm'
