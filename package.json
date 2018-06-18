@@ -16,6 +16,7 @@
     "the-style": "^2.1.4"
   },
   "devDependencies": {
+    "@babel/runtime": "^7.0.0-beta.51",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "the-script-build": "^3.1.10",
