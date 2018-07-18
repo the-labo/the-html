@@ -9,7 +9,6 @@ import TheHtml from './TheHtml'
 import TheHtmlStyle from './TheHtmlStyle'
 
 export {
-  TheHtml,
-  TheHtmlStyle,
+ TheHtml,
+ TheHtmlStyle,
 }
-
